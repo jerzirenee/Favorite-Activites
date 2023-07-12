@@ -12,4 +12,4 @@ I enjoy these activities because I am passionate about cooking and scary movies 
 
 ![Movie Night Picture](GITHUB.jpeg)
 
-[This short film has the best of both world!](https://www.youtube.com/watch?v=1WFrMApkn7M)
+[This short film has the best of both worlds!](https://www.youtube.com/watch?v=1WFrMApkn7M)
